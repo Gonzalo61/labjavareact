@@ -1,6 +1,11 @@
 # me.home.com
+Este repositorio es el usado por los administradores de Houm y tambien se encuentra implementado el admin propietario.
+El admin interno se encuentra dividio en 4 áreas:
+* Evaluaciones
+* Clientes
+* Contratos
+* Corretajes
 
-Este proyecto permite abrir el panel de administración tanto para arrendatarios, propietarios y administradores internos de Houm (Ejecutivos).
 
 ## Comenzando 🚀
 
@@ -23,3 +28,4 @@ Se debe tener instalado:
 
 * [React.js](https://es.reactjs.org/)
 * [Create React App](https://create-react-app.dev/)
+* [Auth0](https://auth0.com/)
